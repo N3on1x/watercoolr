@@ -32,7 +32,7 @@ In the "**Employees List**" sheet, edit the "Name" column with your own list.
 
 In the "**Video Chat URL**" sheet, edit the URL and change the `<my-company>` part with your company name, or feel free to add whatever path-ending you like. The app uses Jitsi Meet as default, but if you want you can change the URL to your custom needs, but the script adds a number behind the URL to specify grouping so be aware that your custom chat service must support that.
 
-
+Share **your** document with your colleagues or friends.
 
 **Run the app and let the conversation begin!** 🗣
 
