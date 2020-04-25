@@ -28,7 +28,7 @@ In the "**Employees List**" sheet, edit the "Name" column with your own list.
 
 ![image-20200425153545788](images/image-20200425153545788.png)
 
-> **Note:** The "Email" and "Department" lists are never used. They're only to demonstrate how you can add more data on participants. It could be useful for sending out a notice by email, or to add context to each name in the list by adding. Feel free to add as many columns you like.
+> **Note:** The "Email" and "Department" lists are never used. They're only to demonstrate how you can add more data on participants. It could be useful for sending out a notice by email, or to add context to each name in the list. Feel free to add as many columns you like.
 
 In the "**Video Chat URL**" sheet, edit the URL and change the `<my-company>` part with your company name, or feel free to add whatever path-ending you like. The app uses Jitsi Meet as default, but if you want you can change the URL to your custom needs, but the script adds a number behind the URL to specify grouping so be aware that your custom chat service must support that.
 
